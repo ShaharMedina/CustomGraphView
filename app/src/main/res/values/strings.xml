@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGraph</string>
+    <string name="x_name">X</string>
+    <string name="y_name">Y</string>
+</resources>
